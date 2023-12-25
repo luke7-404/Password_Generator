@@ -1,0 +1,1 @@
+I wrote this password generator for my freshman year of highschool where I was enrolled in AP Computer Science Principles. In other words, I know my code may be sloppy.
